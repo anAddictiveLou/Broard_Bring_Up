@@ -32,3 +32,7 @@ STEP3:$ ./ct-ng menuconfig
 STEP4:$ ./ct-ng build
 
 The toolchain will be installed in ~/x-tools/arm-unknown-linux-gnueabi.
+
+### Test new toolchain and new cross compiler itself
+
+
