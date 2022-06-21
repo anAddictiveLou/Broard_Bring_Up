@@ -18,7 +18,7 @@ STEP2:$ git clone https://github.com/crosstool-ng/crosstool-ng.git
       
 STEP3:$ ./ct-ng
 
-### Building a toolchain for machine emulator by QEMU 
+### Building a toolchain for QEMU machine emulator
 
 STEP1:$ ./ct-ng list-samples
 
